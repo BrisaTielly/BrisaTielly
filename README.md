@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Aprendendo Spring Boot<br>📫 Contate-me no email: brisatsilva@gmail.com<br>😄 Pronouns: ela/dela<br>💬 Ask me about Brooklyn99</p>
+<p align="left">📚 Aprendendo Spring Boot<br>📫 Contate-me no email: brisatsilva@gmail.com<br>😄 Pronouns: ela/dela<br>💬 Ask me about Brooklyn 99</p>
 
 ###
 
