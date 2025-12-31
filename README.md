@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é <b>Brisa Tielly</b> e sou <b>Desenvolvedora Full Stack</b> 💻</p>
+<p align="left">Meu nome é <b>Brisa Silva</b> e sou <b>Desenvolvedora Full Stack</b> 💻</p>
 
 ###
 
@@ -11,7 +11,6 @@
 ###
 
 <p align="left">
-🎓 Estudante de <b>Engenharia da Computação</b><br>
 💼 Estagiária de <b>Desenvolvimento</b> trabalhando com <b>Vue.js</b>, <b>Django REST Framework</b>, <b>Serverless</b>, <b>PostgreSQL</b> e <b>DynamoDB</b><br>
 🧩 Iniciei minha trajetória como <b>QA</b>, o que me trouxe uma base sólida em <b>testes automatizados</b>, <b>qualidade de software</b> e <b>resolução de bugs</b><br>
 📚 Sempre aprendendo e aprimorando minhas habilidades em <b>Java, Python, JavaScript e Docker</b><br>
